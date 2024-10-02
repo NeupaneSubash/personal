@@ -1,6 +1,12 @@
 ### Education
+-Mississippi State Univesity
+-Tuskegee University
+-kathmandu University
 
 ### Research Interests
+-interest 1
+-interest 2
+-interest 3
 ### Teaching Interests
 - work 1
 - work 2
@@ -8,7 +14,7 @@
 ### Research Expereince
 
 ### Publications
-  -Peer Reviewed Publications
+-Peer Reviewed Publications
   
 
 
