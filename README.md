@@ -1,7 +1,7 @@
 ## Education
 - Mississippi State Univesity | PhD Computer Science (May 2025 Expected)
 - Tuskegee University | Master in Information Security and Security Management (2020)
-- Swinburne University of Technology | Master in Information technology (2016)
+- Swinburne University of Technology | Master in Information Technology (2016)
 - Kathmandu University | Bachelor of Computer Engineering (2011)
 
 ## Research Interests
