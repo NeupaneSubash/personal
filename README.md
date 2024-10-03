@@ -1,9 +1,13 @@
 ### Education
 - Mississippi State Univesity
+-   PhD Computer Science
 - Tuskegee University
+- Master in Information Security and Security Management
 - Swinburne University of Technology
+-   Master in Information technology 
 - kathmandu University
-
+- Bachelor of Engineering (Computer Enginee)ring
+rr
 ### Research Interests
 - interest 1
 - interest 2
@@ -12,7 +16,7 @@
 - work 1
 - work 2
 - work 3
-### Research Expereince
+
 
 ### Publications
 - Fernandez, I. A., Neupane, S., Chakraborty, T., Mitra, S., Mittal, S., Pillai, N., ... & Rahimi, S. (2024). A Survey on Privacy Attacks Against Digital Twin Systems in AI-Robotics. IEEE International Conference on Collaboration and Internet Computing 2024.
