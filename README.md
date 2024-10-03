@@ -17,7 +17,7 @@
 
 
 ## Publications
-### Fernandez, I. A., Neupane, S., Chakraborty, T., Mitra, S., Mittal, S., Pillai, N., ... & Rahimi, S. (2024). A Survey on Privacy Attacks Against Digital Twin Systems in AI-Robotics. IEEE International Conference on Collaboration and Internet Computing 2024.
+- Fernandez, I. A., Neupane, S., Chakraborty, T., Mitra, S., Mittal, S., Pillai, N., ... & Rahimi, S. (2024). A Survey on Privacy Attacks Against Digital Twin Systems in AI-Robotics. IEEE International Conference on Collaboration and Internet Computing 2024.
 [Publication](https://arxiv.org/pdf/2406.18812)
 - Keith, J. M., Amirlatifi, A., Rahimi, S., Neupane, S., & Mittal, S. (2024, June). Bark Plug: The ChatGPT of the Bagley College of Engineering at Mississippi State University. In 2024 ASEE Annual Conference & Exposition.
 - Rosas, S. R., Neupane, S., Mitra, S., & Mittal, S. ReVisE: Emulated Visual Outfit Generation from User Reviews using Generative-AI.SEDE-2024 33rd SEDE Conference: Software & Data Engineering (SEDE).
