@@ -6,10 +6,12 @@
 
 
 ## Research Interests
-**NLP, GEN AI, Healthcare, Cybersecurity **
+NLP, GEN AI, Healthcare, Cybersecurity
 - interest 1
 - interest 2
 - interest 3
+
+
 ## Teaching Interests
 - work 1
 - work 2
