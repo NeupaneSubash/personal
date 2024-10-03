@@ -1,7 +1,8 @@
 ### Education
--Mississippi State Univesity
--Tuskegee University
--kathmandu University
+- Mississippi State Univesity
+- Tuskegee University
+- Swinburne University of Technology
+- kathmandu University
 
 ### Research Interests
 -interest 1
