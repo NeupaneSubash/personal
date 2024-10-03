@@ -1,9 +1,10 @@
 ## Education
-- Ph.D., Computer Science | Mississippi State Univesity (May 2025 Expected)
-- M.S., Information Security | Tuskegee University (2020)
-- M.S., Information Technology | Swinburne University of Technology (2016)
-- B.E., Computer | Kathmandu University (2011)
+- Ph.D., CS | Mississippi State University (May 2025 Expected)
+- M.S., IS  | Tuskegee University (2020)
+- M.S., IT  | Swinburne University of Technology (2016)
+- B.E., CS  | Kathmandu University (2011)
 ## Research Interests
+**NLP, GEN AI, Healthcare, Cybersecurity **
 - interest 1
 - interest 2
 - interest 3
