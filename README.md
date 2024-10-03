@@ -3,6 +3,8 @@
 - M.S., IS  | Tuskegee University (2020)
 - M.S., IT  | Swinburne University of Technology (2016)
 - B.E., CS  | Kathmandu University (2011)
+
+
 ## Research Interests
 **NLP, GEN AI, Healthcare, Cybersecurity **
 - interest 1
@@ -14,8 +16,9 @@
 - work 3
 
 
-### Publications
-- Fernandez, I. A., Neupane, S., Chakraborty, T., Mitra, S., Mittal, S., Pillai, N., ... & Rahimi, S. (2024). A Survey on Privacy Attacks Against Digital Twin Systems in AI-Robotics. IEEE International Conference on Collaboration and Internet Computing 2024.
+## Publications
+### Fernandez, I. A., Neupane, S., Chakraborty, T., Mitra, S., Mittal, S., Pillai, N., ... & Rahimi, S. (2024). A Survey on Privacy Attacks Against Digital Twin Systems in AI-Robotics. IEEE International Conference on Collaboration and Internet Computing 2024.
+[Publication](https://arxiv.org/pdf/2406.18812)
 - Keith, J. M., Amirlatifi, A., Rahimi, S., Neupane, S., & Mittal, S. (2024, June). Bark Plug: The ChatGPT of the Bagley College of Engineering at Mississippi State University. In 2024 ASEE Annual Conference & Exposition.
 - Rosas, S. R., Neupane, S., Mitra, S., & Mittal, S. ReVisE: Emulated Visual Outfit Generation from User Reviews using Generative-AI.SEDE-2024 33rd SEDE Conference: Software & Data Engineering (SEDE).
 - Neupane, S., Hossain, E., Keith, J., Tripathi, H., Ghiasi, F., Golilarz, N. A., ... & Rahimi, S. (2024). From Questions to Insightful Answers: Building an Informed Chatbot for University Resources. Frontiers in Education 2024 - ASEE 2024.
