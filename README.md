@@ -1,18 +1,14 @@
-### Education
-- Mississippi State Univesity
--   PhD Computer Science
-- Tuskegee University
-- Master in Information Security and Security Management
-- Swinburne University of Technology
--   Master in Information technology 
-- kathmandu University
-- Bachelor of Engineering (Computer Enginee)ring
-rr
-### Research Interests
+## Education
+- Mississippi State Univesity | PhD Computer Science (May 2025 Expected)
+- Tuskegee University | Master in Information Security and Security Management (2020)
+- Swinburne University of Technology | Master in Information technology (2016)
+- Kathmandu University | Bachelor of Computer Engineering (2011)
+
+## Research Interests
 - interest 1
 - interest 2
 - interest 3
-### Teaching Interests
+## Teaching Interests
 - work 1
 - work 2
 - work 3
