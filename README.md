@@ -19,7 +19,7 @@ NLP, GEN AI, Healthcare, Cybersecurity
 
 
 ## Publications
-- Neupane, Subash, et al. "Medinsight: A multi-source context augmentation framework for generating patient-centric medical responses using large language models." ACM Transactions on Computing for Healthcare 6.2 (2025): 1-19.
+- Neupane, Subash, et al. "Medinsight: A multi-source context augmentation framework for generating patient-centric medical responses using large language models." ACM Transactions on Computing for Healthcare 6.2 (2025): 1-19.[Publication](https://dl.acm.org/doi/full/10.1145/3709365)
 - Fernandez, I. A., Neupane, S., Chakraborty, T., Mitra, S., Mittal, S., Pillai, N., ... & Rahimi, S. (2024). A Survey on Privacy Attacks Against Digital Twin Systems in AI-Robotics. IEEE International Conference on Collaboration and Internet Computing 2024.
 [Publication](https://arxiv.org/pdf/2406.18812)
 - Keith, J. M., Amirlatifi, A., Rahimi, S., Neupane, S., & Mittal, S. (2024, June). Bark Plug: The ChatGPT of the Bagley College of Engineering at Mississippi State University. In 2024 ASEE Annual Conference & Exposition.
