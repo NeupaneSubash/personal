@@ -1,5 +1,5 @@
 ## Education
-- Ph.D., CS | Mississippi State University (May 2025 Expected)
+- Ph.D., CS | Mississippi State University (2025)
 - M.S., IS  | Tuskegee University (2020)
 - M.S., IT  | Swinburne University of Technology (2016)
 - B.E., CS  | Kathmandu University (2011)
